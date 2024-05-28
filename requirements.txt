@@ -113,4 +113,3 @@ webencodings==0.5.1
 xkit==0.0.0
 zipp==1.0.0
 zope.interface==5.4.0
-PyYAML==3.01
